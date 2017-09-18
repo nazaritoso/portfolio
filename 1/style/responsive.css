@@ -1,0 +1,32 @@
+@media screen and (max-width:1116px)
+{
+	#nostalgia-tab-content-menu-select
+	{
+		display:block;
+	}
+}
+@media only screen and (max-width:1145px) 
+{
+	.sidebar-home, .widgetControl
+	{
+		display:none !important;
+	}
+}
+
+/*
+@media only screen and (max-height:600px) 
+{
+#nostalgia-tab-content-scroll
+{
+height:85%;
+}
+}
+
+@media only screen and (max-height:400px) 
+{
+#nostalgia-tab-content-scroll
+{
+height:75%;
+}
+}
+*/

@@ -1,0 +1,943 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:40
+msgid " Contact Form Options"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments.php:61
+msgid ", %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "Add New About Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "Add New Service Item"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:327
+msgid "Add background"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Add image"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:421
+msgid "Add track"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Additional featured images"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:91
+msgid "Admin SMTP config (optional)"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:91
+msgid "Admin email config"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "All About Items"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "All Portfolio Items"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "All Service Items"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Audio URL"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Audio URL (optional)"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:437
+msgid "Autoplay"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:151
+msgid "Background"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:306
+msgid "Background image url"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:343
+msgid "Background overlay"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:315
+msgid "Background title"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:294
+msgid "Backgrounds"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "Blog categories"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "Blog order"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/widget-latest-post.php:93
+msgid "Blog page"
+msgstr ""
+
+#. Text in function
+#: nostalgia/functions.php:1
+msgid "Blog post thumbnail"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+#: nostalgia/theme-options.php:310
+#: nostalgia/theme-options.php:412
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:192
+msgid "Can be text or any html"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/comments-form.php:2
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/widget-latest-portfolio.php:131
+#: nostalgia/about_post_type.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/blog.php:93
+#: nostalgia/index.php:87
+msgid "Close"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "Custom URL"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "Custom background color"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Description location"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "Direction"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:213
+msgid "Display home widget on start"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:224
+msgid "Display menu on start"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "Edit About Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#. Text in function 96down.com
+#: nostalgia/service_post_type.php:1
+msgid "Edit Service Item"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:78
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:147
+msgid "Email config"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:220
+msgid "Email field"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:186
+msgid "Email hint"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:152
+msgid "Email subject"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:207
+msgid "Error messages"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+msgid "Error while adding comment"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "External URL"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "External URL (optional)"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "External URL target"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Features images loop"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:173
+msgid "Fields hints"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:179
+msgid "Footer text left"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:188
+msgid "Footer text right"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/blog.php:122
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:98
+msgid "Host"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+#: nostalgia/meta-box.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:264
+msgid "Icon type"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Ifame URL (optional)"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Iframe URL"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Image title"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "Image url"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:174
+msgid "Insert logo"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/widget-latest-portfolio.php:149
+msgid "Items count"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/comments-form.php:2
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/footer.php:25
+msgid "Loading images..."
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:426
+msgid "Loop"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:141
+#: nostalgia/theme-options.php:165
+msgid "Main"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:170
+msgid "Main box text"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+#: nostalgia/comments-form.php:13
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:244
+msgid "Message send error"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:236
+msgid "Message send ok"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:156
+#: nostalgia/theme-options.php:396
+msgid "Music"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:70
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:212
+msgid "Name field"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:178
+msgid "Name hint"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "New About Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "New Service Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "No About items found"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "No Service items found"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "No about items found in Trash"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "No portfolio items found"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "No service items found in Trash"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:205
+msgid "Number of menu positions:"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/about_post_type.php:1
+#: nostalgia/portfolio_post_type.php:1
+#: nostalgia/meta-box.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:49
+#: nostalgia/theme-options.php:130
+msgid "Options saved"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:114
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+msgid "Please enter valid e-mail address"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+msgid "Please enter your message"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+msgid "Please enter your name"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:122
+msgid "Port"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/widget-latest-portfolio.php:113
+msgid "Portfolio page"
+msgstr ""
+
+#. Text in function
+#: nostalgia/functions.php:1
+msgid "Portfolio thumbnail"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/comments-form.php:16
+msgid "Post comment"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/widget-latest-post.php:117
+msgid "Post count"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/blog.php:244
+#: nostalgia/blog.php:245
+#: nostalgia/widget-latest-post.php:60
+#: nostalgia/widget-latest-post.php:61
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/comments.php:79
+#: nostalgia/comments.php:80
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:235
+msgid "Responsive"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:130
+msgid "SMTP Secure"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:454
+msgid "Save All Options"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:388
+msgid "Save Backgrounds Options"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:286
+msgid "Save Footer Icons Options"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:247
+msgid "Save Main Options"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:449
+msgid "Save Music Options"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "Search About Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Search Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "Search Service Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/shortcodes.php:1
+msgid "Send"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "Service"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/blog.php:121
+msgid "Show all posts"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+msgid "Show featured images lightbox"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:379
+msgid "Slide interval:"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:146
+#: nostalgia/theme-options.php:255
+msgid "Social footer icons"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:160
+msgid "Template"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:228
+msgid "Text field"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:194
+msgid "Text hint"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:197
+msgid "Theme color:"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/widget-latest-portfolio.php:145
+#: nostalgia/widget-latest-post.php:113
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:408
+msgid "Track url"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:371
+msgid "Transition speed:"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:354
+msgid "Transition:"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:106
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "Video URL (optional)"
+msgstr ""
+
+#. Text in function
+#: nostalgia/about_post_type.php:1
+msgid "View About Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "View Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+msgid "View Service Item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/blog-category-walker.php:1
+#: nostalgia/blog.php:222
+msgid "View all posts filed under %s"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+#: nostalgia/comments-form.php:9
+msgid "Your Email Address"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+#: nostalgia/comments-form.php:6
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: nostalgia/comments-functions.php:1
+msgid "Your comment has been added"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "app"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "ascending"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "binoculars"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+msgid "both"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "briefcase"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "camera"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:365
+msgid "carouselLeft"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:364
+msgid "carouselRight"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "checkmark"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "descending"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "document"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:359
+msgid "fade"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "features"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "heart"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+#: nostalgia/meta-box.php:1
+msgid "image"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/comments.php:61
+msgid "in reply to "
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+msgid "in single post"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "info"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "item"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "left"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "lightbox"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "lightbulb"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "mail"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "new window"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+#: nostalgia/theme-options.php:218
+#: nostalgia/theme-options.php:229
+#: nostalgia/theme-options.php:240
+#: nostalgia/theme-options.php:336
+#: nostalgia/theme-options.php:347
+#: nostalgia/theme-options.php:430
+#: nostalgia/theme-options.php:441
+msgid "no"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:358
+msgid "none"
+msgstr ""
+
+#. Text in function
+#: nostalgia/post-meta-box.php:1
+msgid "on post list"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+#: nostalgia/meta-box.php:1
+msgid "people"
+msgstr ""
+
+#. Text in function
+#: nostalgia/service_post_type.php:1
+#: nostalgia/about_post_type.php:1
+msgid "post"
+msgstr ""
+
+#. Text in function
+#: nostalgia/meta-box.php:1
+msgid "right"
+msgstr ""
+
+#. Text in function
+#: nostalgia/portfolio_post_type.php:1
+msgid "same window"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:362
+msgid "slideBottom"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:363
+msgid "slideLeft"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:361
+msgid "slideRight"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/theme-options.php:360
+msgid "slideTop"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:135
+msgid "ssl"
+msgstr ""
+
+#. Text in echo
+#: nostalgia/contact-form-options.php:136
+msgid "tls"
+msgstr ""
+
+#. Text in function 96down.com
+#: nostalgia/post-meta-box.php:1
+#: nostalgia/portfolio_post_type.php:1
+#: nostalgia/theme-options.php:217
+#: nostalgia/theme-options.php:228
+#: nostalgia/theme-options.php:239
+#: nostalgia/theme-options.php:337
+#: nostalgia/theme-options.php:348
+#: nostalgia/theme-options.php:431
+#: nostalgia/theme-options.php:442
+msgid "yes"
+msgstr ""
+

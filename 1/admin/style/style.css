@@ -1,0 +1,61 @@
+.nostalgia_hidden
+{
+	display: none;
+}
+/**********************************************************************/
+/* Tabs					                                              */
+/**********************************************************************/
+#nostalgia-options-tabs
+{
+	margin-top: 25px;
+}
+#nostalgia-options-tabs .ui-tabs-nav
+{
+	margin: 0px;
+}
+#nostalgia-options-tabs .ui-tabs-nav .nav-tab
+{
+	margin-bottom: 0px;
+	padding: 0px;
+	
+}
+#nostalgia-options-tabs .ui-tabs-nav .nav-tab a
+{
+	display: block;
+	text-decoration: none;
+	padding: 4px 14px 6px;
+}
+#nostalgia-options-tabs .ui-tabs-panel
+{
+	width: 750px;
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	-moz-border-radius-bottomright: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+#nostalgia-options-tabs .ui-tabs-panel .form-table
+{
+	margin-top: 0px;
+}
+#nostalgia-options-tabs .ui-tabs-panel p
+{
+	margin-left: 5px;
+}
+#nostalgia-options-tabs .ui-tabs-selected
+{
+	border-color: #CCCCCC;
+	font-weight: bold;
+}
+#nostalgia-options-tabs .button
+{
+	float: right;
+	margin-right: 180px;
+}
+#nostalgia-options-tabs #main_box_upload_button
+{
+	margin-right: 125px;
+}
